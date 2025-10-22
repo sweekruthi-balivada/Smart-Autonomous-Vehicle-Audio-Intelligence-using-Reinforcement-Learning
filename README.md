@@ -1,0 +1,2 @@
+# Smart-Autonomous-Vehicle-Audio-Intelligence-using-Reinforcement-Learning
+Intelligent AI systems for Driverless Vehicles. This project is focusses on different audio categories like Emergency sirens, In-vehicle event detection and Environment event detection. I have built this project using Transformer based architectures and combining them with Reinforcement learning to enhance the performance and precision
